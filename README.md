@@ -24,6 +24,17 @@
 
 [Live Project](https://priyanshu-fun-with-triangles.netlify.app/)
 
+
+## Screenshots
+
+![triangle](https://user-images.githubusercontent.com/52795506/205506615-b8bcac57-de87-46cd-b464-5947cc3695ed.jpg)
+
+![t1](https://user-images.githubusercontent.com/52795506/205506671-19391bb3-358b-460c-bf1b-237022fbc59f.jpg)
+
+![t2](https://user-images.githubusercontent.com/52795506/205506677-44571105-6eb6-4f87-a12a-8de3847e3224.jpg)
+
+![t3](https://user-images.githubusercontent.com/52795506/205506678-e411fb07-b57a-4704-aac0-331ce55cf258.jpg)
+
 ## Connect with me
 
 - [LinkedIn](https://www.linkedin.com/in/priyanshu844/)
